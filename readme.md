@@ -10,3 +10,5 @@
 
 +[利用关系抽取构建知识图谱的一次尝试](https://www.jianshu.com/p/9d33520f2a68)
 
++[nlp中实体关系抽取方法总结](https://zhuanlan.zhihu.com/p/77868938)
+
