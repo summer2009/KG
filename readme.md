@@ -8,3 +8,5 @@
 
 +[关系抽取](https://blog.csdn.net/weixin_42001089/article/details/97657149)
 
++[利用关系抽取构建知识图谱的一次尝试](https://www.jianshu.com/p/9d33520f2a68)
+
