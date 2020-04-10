@@ -14,3 +14,7 @@
 
 + [nlp中实体关系抽取方法总结](https://zhuanlan.zhihu.com/p/77868938)
 
+## KGQA
+
++ [基于BERT的KBQA探索](https://zhuanlan.zhihu.com/p/62946533)
+
