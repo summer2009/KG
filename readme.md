@@ -18,3 +18,9 @@
 
 + [基于BERT的KBQA探索](https://zhuanlan.zhihu.com/p/62946533)
 
+## AIML
+
++ [AIML元素详细说明](https://blog.csdn.net/qq_16633405/article/details/80228697)
+
++ [AIML知识库数据匹配原理解析](https://blog.csdn.net/qq_16633405/article/details/80479110)
+
