@@ -14,6 +14,8 @@
 
 + [nlp中实体关系抽取方法总结](https://zhuanlan.zhihu.com/p/77868938)
 
++ [BERT中的词向量指南，非常的全面，非常的干货](https://blog.csdn.net/u011984148/article/details/99921480)
+
 ## KGQA
 
 + [基于BERT的KBQA探索](https://zhuanlan.zhihu.com/p/62946533)
