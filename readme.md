@@ -28,3 +28,5 @@
 
 + [AIML知识库数据匹配原理解析](https://blog.csdn.net/qq_16633405/article/details/80479110)
 
++ [使用Python AIML搭建聊天机器人的方法示例](http://www.python88.cn/art/4570/)
+
