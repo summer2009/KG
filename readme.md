@@ -34,3 +34,5 @@
 
 + [使用Python AIML搭建聊天机器人的方法示例](http://www.python88.cn/art/4570/)
 
++ [智能客服 对话实现--python aiml包](https://www.cnblogs.com/brucekun/p/7667780.html)
+
