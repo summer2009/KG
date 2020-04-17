@@ -1,8 +1,8 @@
 # Knowledge Graph 知识图谱
 
-## MRC 机器阅读
+## Pytorch
 
-+ [机器阅读理解：如何让计算机读懂文章](https://zhuanlan.zhihu.com/p/56981110?from_voters_page=true)
++ [PyTorch入门教程](https://www.jianshu.com/p/d66319506dd7)
 
 ## Transformers
 
@@ -35,6 +35,10 @@
 + [问题生成 (Question generation)：AI与认知科学](https://zhuanlan.zhihu.com/p/27472012)
 
 + [awesome-question-answering](https://github.com/dapurv5/awesome-question-answering)
+
+## MRC 机器阅读
+
++ [机器阅读理解：如何让计算机读懂文章](https://zhuanlan.zhihu.com/p/56981110?from_voters_page=true)
 
 ## AIML
 
