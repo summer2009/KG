@@ -1,6 +1,6 @@
 # Knowledge Graph 知识图谱
 
-## Pytorch
+## PyTorch
 
 + [PyTorch入门教程](https://www.jianshu.com/p/d66319506dd7)
 
