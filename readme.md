@@ -4,6 +4,14 @@
 
 + [机器阅读理解：如何让计算机读懂文章](https://zhuanlan.zhihu.com/p/56981110?from_voters_page=true)
 
+## Transformers
+
++ [PyTorch-Transformers:最先进的自然语言处理库(附带python代码)](https://www.jianshu.com/p/e4ce00a41781)
+
++ [Transformers 简介（上）](https://www.jianshu.com/p/f917f64ff3e3)
+
++ [Transformers 简介（下）](https://www.jianshu.com/p/d48c45e81483)
+
 ## BERT
 
 + [一本读懂BERT(实践篇)](https://blog.csdn.net/jiaowoshouzi/article/details/89388794)
