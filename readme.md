@@ -26,6 +26,8 @@
 
 + [问题生成 (Question generation)：AI与认知科学](https://zhuanlan.zhihu.com/p/27472012)
 
++ [awesome-question-answering](https://github.com/dapurv5/awesome-question-answering)
+
 ## AIML
 
 + [AIML框架标签详解](https://blog.csdn.net/weixin_42250835/article/details/87139209)
