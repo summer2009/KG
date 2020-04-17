@@ -4,6 +4,8 @@
 
 + [PyTorch入门教程](https://www.jianshu.com/p/d66319506dd7)
 
++ [PyTorch 中文手册（pytorch handbook）](https://github.com/zergtant/pytorch-handbook)
+
 ## Transformers
 
 + [PyTorch-Transformers:最先进的自然语言处理库(附带python代码)](https://www.jianshu.com/p/e4ce00a41781)
