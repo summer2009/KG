@@ -24,6 +24,8 @@
 
 + [基于BERT的KBQA探索](https://zhuanlan.zhihu.com/p/62946533)
 
++ [问题生成 (Question generation)：AI与认知科学](https://zhuanlan.zhihu.com/p/27472012)
+
 ## AIML
 
 + [AIML框架标签详解](https://blog.csdn.net/weixin_42250835/article/details/87139209)
