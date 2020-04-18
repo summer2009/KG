@@ -14,6 +14,8 @@
 
 + [Transformers 简介（下）](https://www.jianshu.com/p/d48c45e81483)
 
++ [Transformers 简介（上）](https://panchuang.net/2020/03/12/transformers-%e7%ae%80%e4%bb%8b%ef%bc%88%e4%b8%8a%ef%bc%89/)
+
 + [How do Transformers Work in NLP? A Guide to the Latest State-of-the-Art Models](https://www.analyticsvidhya.com/blog/2019/06/understanding-transformers-nlp-state-of-the-art-models/?utm_source=blog&utm_medium=pytorch-transformers-nlp-python)
 
 ## BERT
