@@ -18,6 +18,8 @@
 
 + [How do Transformers Work in NLP? A Guide to the Latest State-of-the-Art Models](https://www.analyticsvidhya.com/blog/2019/06/understanding-transformers-nlp-state-of-the-art-models/?utm_source=blog&utm_medium=pytorch-transformers-nlp-python)
 
++ [https://blog.csdn.net/tailonh/article/details/105394010](https://blog.csdn.net/tailonh/article/details/105394010)
+
 ## BERT
 
 + [一本读懂BERT(实践篇)](https://blog.csdn.net/jiaowoshouzi/article/details/89388794)
