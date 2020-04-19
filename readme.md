@@ -18,7 +18,9 @@
 
 + [How do Transformers Work in NLP? A Guide to the Latest State-of-the-Art Models](https://www.analyticsvidhya.com/blog/2019/06/understanding-transformers-nlp-state-of-the-art-models/?utm_source=blog&utm_medium=pytorch-transformers-nlp-python)
 
-+ [https://blog.csdn.net/tailonh/article/details/105394010](https://blog.csdn.net/tailonh/article/details/105394010)
++ [Transformers 加载预训练模型](https://blog.csdn.net/fendouaini/article/details/105254397)
+
++ [pytorch的bert预训练模型下载](https://blog.csdn.net/tailonh/article/details/105394010)
 
 ## BERT
 
