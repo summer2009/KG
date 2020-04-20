@@ -40,6 +40,8 @@
 
 + [BERT中的词向量指南，非常的全面，非常的干货](https://blog.csdn.net/u011984148/article/details/99921480)
 
++ [Pytorch版本的BERT使用学习笔记](https://blog.csdn.net/ccbrid/article/details/88732857?depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-1&utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-1)
+
 + [如何使用BERT实现中文的文本分类（附代码）](https://blog.csdn.net/Real_Brilliant/article/details/84880528)
 
 + [一步步理解BERT](http://nlp.dataguru.cn/article-14907-1.html)
