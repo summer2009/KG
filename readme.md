@@ -2,7 +2,7 @@
 
 ## KG
 
-+ [知识图谱基础之RDF，RDFS与OWL]()
++ [知识图谱基础之RDF，RDFS与OWL](https://zhuanlan.zhihu.com/p/32122644)
 
 ## Deep Learning基础
 
