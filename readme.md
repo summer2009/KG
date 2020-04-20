@@ -2,6 +2,8 @@
 
 ## Deep Learning基础
 
++ [《Hands-On Machine Learning with Scikit-Learn and TensorFlow》笔记](https://www.cnblogs.com/royhoo/category/1182855.html)
+
 + [第十四章——循环神经网络（Recurrent Neural Networks）（第一部分）](https://www.cnblogs.com/royhoo/p/Recurrent-Neural-Networks-1.html)
 
 ## PyTorch
