@@ -1,5 +1,9 @@
 # Knowledge Graph 知识图谱
 
+## KG
+
++ [知识图谱基础之RDF，RDFS与OWL]()
+
 ## Deep Learning基础
 
 + [《Hands-On Machine Learning with Scikit-Learn and TensorFlow》笔记](https://www.cnblogs.com/royhoo/category/1182855.html)
