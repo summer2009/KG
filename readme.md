@@ -52,6 +52,8 @@
 
 + [一步步理解BERT](http://nlp.dataguru.cn/article-14907-1.html)
 
++ [基于BERT预训练的中文命名实体识别TensorFlow实现](https://blog.csdn.net/macanv/article/details/85684284)
+
 ## KGQA
 
 + [基于BERT的KBQA探索](https://zhuanlan.zhihu.com/p/62946533)
