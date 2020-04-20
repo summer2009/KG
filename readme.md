@@ -1,5 +1,9 @@
 # Knowledge Graph 知识图谱
 
+## Deep Learning基础
+
++ [第十四章——循环神经网络（Recurrent Neural Networks）（第一部分）](https://www.cnblogs.com/royhoo/p/Recurrent-Neural-Networks-1.html)
+
 ## PyTorch
 
 + [PyTorch入门教程](https://www.jianshu.com/p/d66319506dd7)
