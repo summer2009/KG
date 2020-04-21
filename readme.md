@@ -58,6 +58,10 @@
 
 + [基于BERT预训练的中文命名实体识别TensorFlow实现](https://blog.csdn.net/macanv/article/details/85684284)
 
++ [基于Bert-NER构建特定领域的中文信息抽取框架（上）](https://www.freebuf.com/column/209195.html)
+
++ []()
+
 ## KGQA
 
 + [基于BERT的KBQA探索](https://zhuanlan.zhihu.com/p/62946533)
