@@ -50,6 +50,8 @@
 
 + [如何使用BERT实现中文的文本分类（附代码）](https://blog.csdn.net/Real_Brilliant/article/details/84880528)
 
++ [用sklearn结合bert对中文句子聚类](https://blog.csdn.net/scbl2017/article/details/105379419/)
+
 + [Pytorch之Bert文本分类（一）](https://blog.csdn.net/SZU_Hadooper/article/details/101692883?depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-3&utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-3)
 
 + [Pytorch之Bert中文文本分类（二）](https://blog.csdn.net/SZU_Hadooper/article/details/101697580?depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-13&utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-13)
