@@ -66,7 +66,7 @@
 
 + [Bert 命名实体识别](https://www.cnblogs.com/jfdwd/p/11238691.html)
 
-+ []()
++ [【最新试验】用预训练模型Roberta做序列标注_自然语言处理_使用RobertaForTokenClassification做命名实体识别pytorch版](https://blog.csdn.net/weixin_39673686/article/details/100939650)
 
 ## KGQA
 
