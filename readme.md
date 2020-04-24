@@ -64,6 +64,8 @@
 
 + [基于Bert-NER构建特定领域的中文信息抽取框架（上）](https://www.freebuf.com/column/209195.html)
 
++ [Bert 命名实体识别](https://www.cnblogs.com/jfdwd/p/11238691.html)
+
 + []()
 
 ## KGQA
