@@ -1,5 +1,9 @@
 # Knowledge Graph 知识图谱
 
+## 基本技能
+
++ [Windows利用conda命令管理Python环境](https://blog.csdn.net/dengchunlin01/article/details/79075099?depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-2&utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-2)
+
 ## KG
 
 + [知识图谱基础之RDF，RDFS与OWL](https://zhuanlan.zhihu.com/p/32122644)
