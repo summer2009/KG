@@ -16,6 +16,10 @@
 
 + [PyTorch 中文手册（pytorch handbook）](https://github.com/zergtant/pytorch-handbook)
 
+## GPU 效率
+
++ [深度学习PyTorch，TensorFlow中GPU利用率较低，CPU利用率很低，且模型训练速度很慢的问题总结与分析](https://blog.csdn.net/qq_32998593/article/details/92849585?depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-1&utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-1)
+
 ## Transformers
 
 + [PyTorch-Transformers:最先进的自然语言处理库(附带python代码)](https://www.jianshu.com/p/e4ce00a41781)
