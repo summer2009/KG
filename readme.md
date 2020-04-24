@@ -94,3 +94,7 @@
 
 + [智能客服 对话实现--python aiml包](https://www.cnblogs.com/brucekun/p/7667780.html)
 
+## 精彩博客
+
++ [天生smile](https://www.jianshu.com/u/abfe703a00fe)
+
