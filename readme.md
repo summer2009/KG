@@ -8,6 +8,8 @@
 
 + [知识图谱基础之RDF，RDFS与OWL](https://zhuanlan.zhihu.com/p/32122644)
 
++ [文因互联鲍捷：深度解析知识图谱发展关键阶段及技术脉络 | 公开课笔记](https://www.jianshu.com/p/54d2cb005397)
+
 ## Deep Learning基础
 
 + [《Hands-On Machine Learning with Scikit-Learn and TensorFlow》笔记](https://www.cnblogs.com/royhoo/category/1182855.html)
