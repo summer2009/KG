@@ -42,7 +42,7 @@
 
 + [pytorch的bert预训练模型下载](https://blog.csdn.net/tailonh/article/details/105394010)
 
-+ ###人工智能遇见磐石
+### 人工智能遇见磐石
   
   + [Transformers 快速入门 | 一](https://www.jianshu.com/p/8f24b0edcae3)
   
