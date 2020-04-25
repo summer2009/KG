@@ -42,6 +42,32 @@
 
 + [pytorch的bert预训练模型下载](https://blog.csdn.net/tailonh/article/details/105394010)
 
++ ###人工智能遇见磐石
+  
+  + [Transformers 快速入门 | 一](https://www.jianshu.com/p/8f24b0edcae3)
+  
+  + [Transformers 词汇表 | 二](https://www.jianshu.com/p/747044689079)
+  
+  + [Transformers 库常见的用例 | 三](https://www.jianshu.com/p/83feb35a81a3)
+  
+  + [Transformers 中使用 TorchScript | 四](https://www.jianshu.com/p/8233ce7c78ec)
+  
+  + [Transformers 模型上传和共享 | 五](https://www.jianshu.com/p/217a40a364b8)
+  
+  + [Transformers 示例 | 六](https://www.jianshu.com/p/de8755be0230)
+  
+  + [Transformers 加载预训练模型 | 七](https://www.jianshu.com/p/9f70cf441b22)
+  
+  + [Transformers 保存并加载模型 | 八](https://www.jianshu.com/p/f044369967aa)
+  
+  + [Transformers 转换Tensorflow的Checkpoints | 九](https://www.jianshu.com/p/a9874f42f255)
+  
+  + [Transformers 从pytorch-pretrained-bert迁移 | 十](https://www.jianshu.com/p/9d5f3e7463d3)
+  
+  + []()
+  
+  + []()
+
 ## BERT
 
 + [一本读懂BERT(实践篇)](https://blog.csdn.net/jiaowoshouzi/article/details/89388794)
