@@ -102,6 +102,8 @@
 
 + [bert--Ner](https://github.com/FuYanzhe2/Name-Entity-Recognition)
 
++ [基于BERT fine-tuning的中文标题分类实战](https://zhuanlan.zhihu.com/p/72448986)
+
 ## KGQA
 
 + [基于BERT的KBQA探索](https://zhuanlan.zhihu.com/p/62946533)
