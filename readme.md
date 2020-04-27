@@ -74,6 +74,8 @@
 
 + [关系抽取](https://blog.csdn.net/weixin_42001089/article/details/97657149)
 
++ [BERT：代码解读、实体关系抽取实战](https://blog.csdn.net/qq_27586341/article/details/102831870)
+
 + [利用关系抽取构建知识图谱的一次尝试](https://www.jianshu.com/p/9d33520f2a68)
 
 + [nlp中实体关系抽取方法总结](https://zhuanlan.zhihu.com/p/77868938)
