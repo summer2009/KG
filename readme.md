@@ -72,7 +72,7 @@
 
 + [一本读懂BERT(实践篇)](https://blog.csdn.net/jiaowoshouzi/article/details/89388794)
 
-+ [关系抽取](https://blog.csdn.net/weixin_42001089/article/details/97657149)
++ [bert实践:关系抽取解读](https://blog.csdn.net/weixin_42001089/article/details/97657149)
 
 + [BERT：代码解读、实体关系抽取实战](https://blog.csdn.net/qq_27586341/article/details/102831870)
 
