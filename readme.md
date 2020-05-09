@@ -100,7 +100,7 @@
 
 + [基于BERT fine-tuning的中文标题分类实战](https://zhuanlan.zhihu.com/p/72448986)
 
-## NER
+## 序列标注
   
 + [命名实体识别NER & 如何使用BERT实现](https://blog.csdn.net/qq_27586341/article/details/103062651?utm_source=distribute.pc_relevant.none-task-blog-baidujs-2)
 
@@ -110,6 +110,7 @@
 
 + [基于BERT预训练的中文命名实体识别TensorFlow实现](https://blog.csdn.net/macanv/article/details/85684284)
 
++ [平安人寿SemEval冠军方案详解：长距离语义捕捉技术攻克关系抽取](https://baijiahao.baidu.com/s?id=1664095617215006595&wfr=spider&for=pc)
 
 ## KGQA
 
