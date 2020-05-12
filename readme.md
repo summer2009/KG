@@ -112,6 +112,10 @@
 
 + [平安人寿SemEval冠军方案详解：长距离语义捕捉技术攻克关系抽取](https://baijiahao.baidu.com/s?id=1664095617215006595&wfr=spider&for=pc)
 
++ [CRF条件随机场简单解释](https://blog.csdn.net/weixin_42398658/article/details/84964103)
+
++ [Introduction to Conditional Random Fields](http://blog.echen.me/2012/01/03/introduction-to-conditional-random-fields/)
+
 ## KGQA
 
 + [基于BERT的KBQA探索](https://zhuanlan.zhihu.com/p/62946533)
