@@ -118,6 +118,10 @@
 
 + [Introduction to Conditional Random Fields](http://blog.echen.me/2012/01/03/introduction-to-conditional-random-fields/)
 
+## 实体关系抽取
+
++ [知识图谱从哪里来：实体关系抽取的现状与未来](知识图谱从哪里来：实体关系抽取的现状与未来)
+
 ## KGQA
 
 + [基于BERT的KBQA探索](https://zhuanlan.zhihu.com/p/62946533)
