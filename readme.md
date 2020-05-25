@@ -16,6 +16,8 @@
 
 + [第十四章——循环神经网络（Recurrent Neural Networks）（第一部分）](https://www.cnblogs.com/royhoo/p/Recurrent-Neural-Networks-1.html)
 
++ [一文搞懂反向传播算法](https://www.jianshu.com/p/964345dddb70)
+
 + [袁宵的个人主页](https://yuanxiaosc.github.io/)
 
 ## PyTorch
