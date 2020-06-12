@@ -28,6 +28,8 @@
 
 + [零基础构建神经网络：使用PyTorch从零编写前馈神经网络代码](https://cloud.tencent.com/developer/news/40571)
 
++ [PyTorch中的nn.Conv1d与nn.Conv2d](https://www.jianshu.com/p/45a26d278473)
+
 ## GPU 效率
 
 + [深度学习PyTorch，TensorFlow中GPU利用率较低，CPU利用率很低，且模型训练速度很慢的问题总结与分析](https://blog.csdn.net/qq_32998593/article/details/92849585?depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-1&utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-1)
