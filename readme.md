@@ -20,13 +20,17 @@
 
 + [袁宵的个人主页](https://yuanxiaosc.github.io/)
 
-+ [温故知新——前向传播算法和反向传播算法（BP算法）及其推导](https://zhuanlan.zhihu.com/p/71892752)
++ ＢＰ算法
+    
+      ＋ [温故知新——前向传播算法和反向传播算法（BP算法）及其推导](https://zhuanlan.zhihu.com/p/71892752)
 
-+ [一文彻底搞懂BP算法：原理推导+数据演示+项目实战（上篇）](https://zhuanlan.zhihu.com/p/71731575)
+      ＋ [一文彻底搞懂BP算法：原理推导+数据演示+项目实战（上篇）](https://zhuanlan.zhihu.com/p/71731575)
+  
+＋　优化算法
 
-+ [从 SGD 到 Adam —— 深度学习优化算法概览(一)](https://zhuanlan.zhihu.com/p/32626442)
+  　   + [从 SGD 到 Adam —— 深度学习优化算法概览(一)](https://zhuanlan.zhihu.com/p/32626442)
 
-+ [一个框架看懂优化算法之异同 SGD/AdaGrad/Adam](https://zhuanlan.zhihu.com/p/32230623)
+       + [一个框架看懂优化算法之异同 SGD/AdaGrad/Adam](https://zhuanlan.zhihu.com/p/32230623)
 
 ## PyTorch
 
