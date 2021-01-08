@@ -25,6 +25,8 @@
     + [温故知新——前向传播算法和反向传播算法（BP算法）及其推导](https://zhuanlan.zhihu.com/p/71892752)
 
     + [一文彻底搞懂BP算法：原理推导+数据演示+项目实战（上篇）](https://zhuanlan.zhihu.com/p/71731575)
+
+    + [一文彻底搞懂BP算法：原理推导+数据演示+项目实战（下篇）](https://zhuanlan.zhihu.com/p/71741256)
   
 + 优化算法
 
