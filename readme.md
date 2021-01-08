@@ -76,9 +76,6 @@
   
   + [Transformers 从pytorch-pretrained-bert迁移 | 十](https://www.jianshu.com/p/9d5f3e7463d3)
   
-  + []()
-  
-  + []()
 
 ## BERT
 
