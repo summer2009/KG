@@ -20,6 +20,10 @@
 
 + [袁宵的个人主页](https://yuanxiaosc.github.io/)
 
++ [从 SGD 到 Adam —— 深度学习优化算法概览(一)](https://zhuanlan.zhihu.com/p/32626442)
+
++ [一个框架看懂优化算法之异同 SGD/AdaGrad/Adam](https://zhuanlan.zhihu.com/p/32230623)
+
 ## PyTorch
 
 + [PyTorch入门教程](https://www.jianshu.com/p/d66319506dd7)
