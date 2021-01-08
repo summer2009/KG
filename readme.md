@@ -26,7 +26,7 @@
 
     ＋ [一文彻底搞懂BP算法：原理推导+数据演示+项目实战（上篇）](https://zhuanlan.zhihu.com/p/71731575)
   
-＋　优化算法
++　优化算法
 
   　+ [从 SGD 到 Adam —— 深度学习优化算法概览(一)](https://zhuanlan.zhihu.com/p/32626442)
 
