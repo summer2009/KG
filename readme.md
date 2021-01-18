@@ -87,6 +87,8 @@
 
 ## BERT
 
++ [谷歌终于开源BERT代码：3 亿参数量，机器之心全面解读](https://ml-python.blog.csdn.net/article/details/83663318?utm_medium=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromBaidu-1.control&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromBaidu-1.control)
+
 + [一本读懂BERT(实践篇)](https://blog.csdn.net/jiaowoshouzi/article/details/89388794)
 
 + [bert实践:关系抽取解读](https://blog.csdn.net/weixin_42001089/article/details/97657149)
