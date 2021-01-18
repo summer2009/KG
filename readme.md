@@ -50,6 +50,8 @@
 
 ## Transformers
 
++ [基于注意力机制，机器之心带你理解与训练神经机器翻译系统](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650742155&idx=1&sn=137825a13a4c31fffb6b2347c0304366&chksm=871ad9f5b06d50e31e2857a08a4a9ae9f57fd0191be580952d80f1518779594670cccc903fbe&scene=21#wechat_redirect)
+
 + [PyTorch-Transformers:最先进的自然语言处理库(附带python代码)](https://www.jianshu.com/p/e4ce00a41781)
 
 + [Transformers 简介（上）](https://www.jianshu.com/p/f917f64ff3e3)
