@@ -50,6 +50,8 @@
 
 ## Transformers
 
++ [Attention Model(注意力模型)](https://zhuanlan.zhihu.com/p/61816483)
+
 + [nlp中的Attention注意力机制+Transformer详解](https://zhuanlan.zhihu.com/p/53682800)
 
 + [图解Transformer（完整版）](https://blog.csdn.net/longxinchen_ml/article/details/86533005)
