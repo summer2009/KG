@@ -10,6 +10,8 @@
 
 + [文因互联鲍捷：深度解析知识图谱发展关键阶段及技术脉络 | 公开课笔记](https://www.jianshu.com/p/54d2cb005397)
 
++ [https://zhuanlan.zhihu.com/p/72981392](【ACL 2019】揭秘认知图谱！从多跳阅读理解问答开始)
+
 ## Deep Learning基础
 
 + [《Hands-On Machine Learning with Scikit-Learn and TensorFlow》笔记](https://www.cnblogs.com/royhoo/category/1182855.html)
