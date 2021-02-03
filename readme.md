@@ -163,6 +163,8 @@
 
 + [机器阅读理解：如何让计算机读懂文章](https://zhuanlan.zhihu.com/p/56981110?from_voters_page=true)
 
++ [[NLP] 基于深度神经网络的自动问答系统概述](https://zhuanlan.zhihu.com/p/41229086)
+
 ## AIML
 
 + [AIML框架标签详解](https://blog.csdn.net/weixin_42250835/article/details/87139209)
