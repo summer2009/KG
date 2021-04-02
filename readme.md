@@ -52,6 +52,10 @@
 
 ## Transformers
 
++ [Natural Language Processing: the age of Transformers](https://blog.scaleway.com/building-a-machine-reading-comprehension-system-using-the-latest-advances-in-deep-learning-for-nlp/)
+
++ [Understanding text with BERT](https://blog.scaleway.com/understanding-text-with-bert/) 
+
 + [Attention Model(注意力模型)](https://zhuanlan.zhihu.com/p/61816483)
 
 + [nlp中的Attention注意力机制+Transformer详解](https://zhuanlan.zhihu.com/p/53682800)
