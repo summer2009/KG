@@ -20,6 +20,8 @@
 
 + [袁宵的个人主页](https://yuanxiaosc.github.io/)
 
++ [SoftMax分类器、信息熵与交叉熵原理](https://zhuanlan.zhihu.com/p/336804346)
+
 + ＢＰ算法
     
     + [一文搞懂反向传播算法](https://www.jianshu.com/p/964345dddb70)
