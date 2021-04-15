@@ -60,6 +60,8 @@
 
 + [Understanding text with BERT](https://blog.scaleway.com/understanding-text-with-bert/) 
 
++ [The Illustrated BERT, ELMo, and co. (How NLP Cracked Transfer Learning)](https://jalammar.github.io/illustrated-bert/)
+
 + [A Visual Guide to Using BERT for the First Time](https://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/)
 
 + [Attention Model(注意力模型)](https://zhuanlan.zhihu.com/p/61816483)
