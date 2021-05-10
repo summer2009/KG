@@ -48,6 +48,10 @@
 
 + [PyTorch中的nn.Conv1d与nn.Conv2d](https://www.jianshu.com/p/45a26d278473)
 
++ [Pytorch常用的交叉熵损失函数CrossEntropyLoss()详解](https://zhuanlan.zhihu.com/p/98785902)
+
++ [torch.nn.Linear() 理解](https://zhuanlan.zhihu.com/p/152198144) 
+
 ## GPU 效率
 
 + [深度学习PyTorch，TensorFlow中GPU利用率较低，CPU利用率很低，且模型训练速度很慢的问题总结与分析](https://blog.csdn.net/qq_32998593/article/details/92849585?depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-1&utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-1)
