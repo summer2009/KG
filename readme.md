@@ -58,6 +58,10 @@
 
 + [深度学习PyTorch，TensorFlow中GPU利用率较低，CPU利用率很低，且模型训练速度很慢的问题总结与分析](https://blog.csdn.net/qq_32998593/article/details/92849585?depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-1&utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-1)
 
+
+## 词向量
+
++ [nlp中的词向量对比：word2vec/glove/fastText/elmo/GPT/bert](https://zhuanlan.zhihu.com/p/56382372)
 ## Transformers
 
 + [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/)
@@ -79,6 +83,10 @@
 + [【经典精读】Transformer模型深度解读](https://zhuanlan.zhihu.com/p/104393915)
 
 + [基于注意力机制，机器之心带你理解与训练神经机器翻译系统](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650742155&idx=1&sn=137825a13a4c31fffb6b2347c0304366&chksm=871ad9f5b06d50e31e2857a08a4a9ae9f57fd0191be580952d80f1518779594670cccc903fbe&scene=21#wechat_redirect)
+
++ [[NLP]Attention Model（注意力模型）学习总结-讲的非常好](https://blog.csdn.net/BigData_Mining/article/details/104667285?utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7Edefault-3.no_search_link&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7Edefault-3.no_search_link) 
+
++ [NLP中的注意力模型 Attention model（学习心得）](https://blog.csdn.net/qq_42067550/article/details/105980585) 
 
 + [PyTorch-Transformers:最先进的自然语言处理库(附带python代码)](https://www.jianshu.com/p/e4ce00a41781)
 
